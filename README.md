@@ -1,4 +1,4 @@
-# projectileMotionGithub
+# Python Pygame Projectile Motion simulation
 Hello everyone. The purpose of this project is to be able to allow students studying a level physics to have a better understanding of projectile motion.
 This project uses pygame for the rendering, matplolib for drawing live graphs and tkinter for the GUI.
 To run this simulation, I suggest creating a folder on your machine, downloading all the contents on this main branch to that folder.
